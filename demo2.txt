@@ -1,0 +1,1 @@
+[200~You need to press [CTRL] + [D]. In other words, hold the control key down, then type d. The > symbol tells the Ubuntu that what is typed is to be stored into the file called bar.txt. To verify your data, enter the ls command and cat command:
